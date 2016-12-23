@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* ID Selectors*/
+
+h1 {
+	font-size: 69px;
+	color: grey;
+	text-align: center;
+}
+h2 {
+	font-size: 26px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	color: #3695E3;
+	text-align: center;
+	}
+h3 {
+	font-size: 35px;
+    color: #3695E3;
+	text-align: center;
+}
+p {font-size: 19px; color: #000;text-align:center
+   font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;}
+
+#Container {
+	font-size: 39px;
+	color: #ADBACC;
+	font-weight: normal;
+	text-align: center;
+}
